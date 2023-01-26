@@ -3,4 +3,4 @@
 pip install tk
 
 pip install pandas
-![크롤링_UI_설명서](https://user-images.githubusercontent.com/67401080/214758640-4fe90efc-fc60-4e56-b98f-f770d5ac6134.PNG)
+![검수_UI_설명서](https://user-images.githubusercontent.com/67401080/214758725-eb486bf1-9d2d-4307-b804-8c6eb7fb0fb8.PNG)
